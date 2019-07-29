@@ -1,0 +1,5 @@
+KSDBConnector Changelog		
+
+12/10/2018
+1.0.03b:
+	Fixed bug that left connection open after completed request.
